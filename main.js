@@ -1,4 +1,4 @@
-const apiKey = '65fa689752b60a1762ab7298895c6930';
+const apiKey = 'key';
 const apiUrl = 'https://api.novaposhta.ua/v2.0/json/';
 
 const cityInput = document.getElementById('city');
